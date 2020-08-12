@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "596049381862",
+    "firebase_url": "https://steady-anagram-276123.firebaseio.com",
+    "project_id": "steady-anagram-276123",
+    "storage_bucket": "steady-anagram-276123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596049381862:android:537d8a5da2b44d676aae27",
+        "android_client_info": {
+          "package_name": "com.appkushi.kushishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596049381862-g57e30r1eijtpjgip2eml8h6plkk9t8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appkushi.kushishop",
+            "certificate_hash": "aa43183eab93a5819c24db263c1682a309671417"
+          }
+        },
+        {
+          "client_id": "596049381862-1iclbkgh97net9ft7e08df6r2rtmugqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCoISCUnI4qgBYCqz4UC-6UrcRsGMLy04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596049381862-1iclbkgh97net9ft7e08df6r2rtmugqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
